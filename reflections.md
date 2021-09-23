@@ -1,1 +1,6 @@
 <h1> Reflection Essay Questions </h1>
+**By Blake Collins**
+
+1.  I had to learn how to become far more self sufficient. This was a nontechnical challenge, but a difficult one. I had to remember that school was not something that I could just laze my way through. The classes were difficult and the times strange. The expectations were far different from what I could've imagined, as now I saw the money being spent in the thousands, all to provide me this magnificent oppurtunity. I had to learn how to tackle problems and not be afraid to ask questions, to strive to better myself and maintain an effiecient schedule.
+2.  I have worked alongside a team during my Object Oriented Programming class. I was just another team member for all intents and purposes with no official roles assigned, but I took it upon myself to arrange times for our group to meet and make advancements on the project we were assigned. I wish to improve my ability to give a solid idea and be decisive about our team's ideas. The entire project was a mess from beginning to the end. No real idea really stuck and no one was able to know where we'd be by the end. We got too ambitious and overextended and had to make due. If we had a more solid idea between us then it likely would've come out better.
+3.  
