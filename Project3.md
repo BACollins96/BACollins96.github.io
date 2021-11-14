@@ -23,6 +23,7 @@ Use perl testProject2.pl and it will run
 
 It opens the terminal and just goes, it has nothing fancy on it.
 
-![screenshot](Seniorscreenshots/Screenshot(87).png)
+![screenshot](Seniorscreenshots/Screenshot(93).png)
+
 Fig 1. The code working on the contained html files
 
