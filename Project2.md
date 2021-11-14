@@ -16,13 +16,16 @@ This is a basic HTML parser that goes over an HTML page and sees if it is balanc
 ## How to compiles / run the program
 
 ```
-Use ./html-parser on contents of pages directory or any other .html file. Use "make" to create executable if necessary
+Use ./html-parser on contents of pages directory 
+or any other .html file. Use "make" to 
+create executable if necessary
 ```
 
 ## UI Design
 
 This is a basic executable files
 
-![screenshot](Seniorscreenshots/Screenshot(88).png)
+![screenshot](Seniorscreenshots/Screenshot(94).png)
+
 Fig 1. The code working on the contained html files
 
