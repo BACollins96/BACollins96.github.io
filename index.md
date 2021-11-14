@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](Project2.md)
+### [Basic HTML Parser | CSCI 315](Project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](Project3.md)
+### [Perl Guessing Game | CSCI 301](Project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](Project4.md)
+### [XV-6 Forktest | CSCI 330](Project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
