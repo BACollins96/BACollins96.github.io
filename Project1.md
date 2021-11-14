@@ -28,8 +28,10 @@ connect to ip address and send a picture to receiver
 Just a terminal display
 
 ![screenshot](Seniorscreenshots/Screenshot(95).png)
+
 Fig 1. Shows the Client side executable in action
 
 
 ![screenshot](Seniorscreenshots/Screenshot(96).png)
+
 Fig 2. Shows the Server side executable in action
