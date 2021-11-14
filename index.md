@@ -4,10 +4,10 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:bacollins1@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [UPS Image Transfer | CSCI 332](Project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
