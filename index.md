@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:bacollins1@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [UPS Image Transfer | CSCI 332](Project1)
+### [UPS Image Transfer | CSCI 332](Project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
