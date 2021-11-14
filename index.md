@@ -9,22 +9,24 @@ Programming Projects
 ---
 ### [UPS Image Transfer | CSCI 332](Project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![screenshot](Seniorscreenshots/Screenshot(95).png)
+![screenshot](Seniorscreenshots/Screenshot(96).png)
 
 ---
 ### [Basic HTML Parser | CSCI 315](Project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![screenshot](Seniorscreenshots/Screenshot(94).png))
 
 ---
 ### [Perl Guessing Game | CSCI 301](Project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![screenshot](Seniorscreenshots/Screenshot(93).png)
 
 ---
 ### [XV-6 Forktest | CSCI 330](Project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![screenshot](Seniorscreenshots/Screenshot(97).png)
+![screenshot](Seniorscreenshots/Screenshot(98).png)
 
 ---
 
