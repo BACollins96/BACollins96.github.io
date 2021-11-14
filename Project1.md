@@ -15,10 +15,12 @@ Custom client sends a image file to the server to recieve it
 
 ## How to compiles / run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```
-Use ./Client_task1.out and ./Server_task1.out inside of Task1 Server, at the same time, connect to ip address and send a picture to receiver
+Use ./Client_task1.out and ./Server_task1.out
+inside of Task1 Server, at the same time, 
+connect to ip address and send a picture to receiver
 ```
 
 ## UI Design
