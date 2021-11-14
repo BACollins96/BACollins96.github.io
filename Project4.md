@@ -26,7 +26,9 @@ Make sure you have qemu.
 Opens an emulated terminal which can be used to access the executable files that are made with the Makefile
 
 ![screenshot](Seniorscreenshots/Screenshot(97).png)
+
 Fig 1. Base run of the ./forktest executable inside of a qemu window
 
 ![screenshot](Seniorscreenshots/Screenshot(98).png)
+
 Fig 2. Base run of the ./forktest executable with numbers to make it work correctly, inside of a qemu-nox window
