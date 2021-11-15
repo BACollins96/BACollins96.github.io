@@ -11,7 +11,7 @@ Project 3: Perl Number Guessing Game
 
 ## Project description
 
-This is a guessing game that randomly creates a number and allows a user to guess it 
+This is a guessing game that randomly creates a number and allows a user to guess it, telling them whether their guess is higher or lower, and then giving them the ability to end the game or reset once the game is over. It also allows you to end the game and reset it inside of the game.
 
 ## How to compiles / run the program
 
@@ -21,7 +21,7 @@ Use perl testProject2.pl and it will run
 
 ## UI Design
 
-It opens the terminal and just goes, it has nothing fancy on it.
+It opens the terminal and it will begin the guessing game, generating a number and allowing the user to guess at it using user input, telling them whether their guess is more or less than what the random number is as seen in Fig. 1. You may also end the game and reset it, as also seen in Fig. 1.
 
 ![screenshot](Seniorscreenshots/Screenshot(93).png)
 
