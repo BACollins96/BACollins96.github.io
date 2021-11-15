@@ -3,7 +3,7 @@
 Project 4: XV6 Forktest
 ===============
 
--   **Class: CSCI 330** 
+-   **Class: CSCI 431** 
 -   **Grade: 100**
 -   **Language(s):C**
 -   **Source Code Repository:** [Project 4: XV6 Forktest](https://github.com/BACollins96/xv6-Blake)  
