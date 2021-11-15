@@ -35,3 +35,7 @@ Fig 1. Shows the Client side executable in action
 ![screenshot](Seniorscreenshots/Screenshot(96).png)
 
 Fig 2. Shows the Server side executable in action
+
+![screenshot](Seniorscreenshots/Screenshot(99).png)
+
+Fig 3. Shows a cute cat
