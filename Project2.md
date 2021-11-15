@@ -23,7 +23,7 @@ create executable if necessary
 
 ## UI Design
 
-This is a basic executable file that it performed on existing html files like in Fig. 1. It does this by going through that file character by character and identifying the tags that are in it, finding open tags, storing them and then carrying the top-most open tag to a new closing tag, and determining balance if the stack is empty by the end or if the closing tags are correct to establish if it is balanced. If it notices other html links using auth, then it goes to it and sees if it is balanced, and stores the llink to prevent backtracking.
+This is a basic executable file that it performed on existing html files like in Fig. 1. It does this by going through that file character by character and identifying the tags that are in it, finding open tags, storing them and then carrying the top-most open tag to a new closing tag, and determining balance if the stack is empty by the end or if the closing tags are correct to establish if it is balanced. If it notices other html links using auth, then it goes to it and sees if it is balanced, and stores the link to prevent backtracking.
 
 ![screenshot](Seniorscreenshots/Screenshot(94).png)
 
