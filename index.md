@@ -34,20 +34,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics of Copyright](EthicsCopyright(BlakeCollins).pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class:CSCI 301**  
+-   **Grade:100**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Dangers of Technology](EthicsPaper(BlakeCollins).pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:CSCI 315** 
+-   **Grade:100**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Privacy Ethics](PrivacyEthics(BlakeCollins).pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class:415** 
+-   **Grade:100**
 
 ---
 
