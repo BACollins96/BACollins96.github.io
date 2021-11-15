@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Project 4: XV-6 Forktest
+Project 4: XV6 Forktest
 ===============
 
 -   **Class: CSCI 330** 
 -   **Grade: 100**
 -   **Language(s):C**
--   **Source Code Repository:** [Project 4: XV-6 Forktest](https://github.com/BACollins96/xv6-Blake)  
+-   **Source Code Repository:** [Project 4: XV6 Forktest](https://github.com/BACollins96/xv6-Blake)  
     (Please [email me](mailto:bacollins1@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
