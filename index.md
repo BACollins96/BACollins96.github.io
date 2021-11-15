@@ -53,16 +53,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Legion Programming System](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:330** 
+- **Grade:100**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [XV6 Kernel Presentation](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:431** 
+- **Grade:100**
 
 ---
 
