@@ -24,7 +24,6 @@ Programming Projects
 ---
 ### [XV-6 Forktest | CSCI 330](Project4.md)
 
-![screenshot](Seniorscreenshots/Screenshot(97).png)
 ![screenshot](Seniorscreenshots/Screenshot(98).png)
 
 ---
