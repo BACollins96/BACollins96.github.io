@@ -44,7 +44,7 @@ Ethics Papers
 -   **Class:CSCI 315** 
 -   **Grade:100**
 
-### [Privacy Ethics](PrivacyEthics(BlakeCollins).pdf)
+### [In Cognito](PrivacyEthics(BlakeCollins).pdf)
 
 -   **Class:415** 
 -   **Grade:100**
