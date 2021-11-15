@@ -26,7 +26,7 @@ ip address and send a picture to receiver
 
 ## UI Design
 
-Using a basic terminal display, both sides of the program, server and client, will use user input to determine network conditions for this to work in. For the server side(see Fig. 1), You will input the listening port that will be listening for the client side connection. Then the client side will decide the server port(see Fig. 2), as well as the ip address of the network to connect to. Once that happens, choose the image file to send over. It will then send it to the server. You can then see that you have received a cute cat from the client(see Fig. 3).
+Using a basic terminal display, both sides of the program, server and client, will use user input to determine network conditions for this to work in. For the server side (see Fig. 1), You will input the listening port that will be listening for the client side connection. Then the client side will decide the server port (see Fig. 2), as well as the ip address of the network to connect to. Once that happens, choose the image file to send over. It will then send it to the server. You can then see that you have received a cute cat from the client (see Fig. 3).
 
 ![screenshot](Seniorscreenshots/Screenshot(95).png)
 
