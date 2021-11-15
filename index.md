@@ -9,9 +9,7 @@ Programming Projects
 ---
 ### [UPS Image Transfer | CSCI 332](Project1.md)
 
-![screenshot](Seniorscreenshots/Screenshot(95).png)
 ![screenshot](Seniorscreenshots/Screenshot(96).png)
-![screenshot](Seniorscreenshots/Screenshot(99).png)
 
 ---
 ### [Basic HTML Parser | CSCI 315](Project2.md)
