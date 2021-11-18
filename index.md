@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [Basic HTML Parser | CSCI 315](Project2.md)
 
-![screenshot](Seniorscreenshots/Screenshot(94).png))
+![screenshot](Seniorscreenshots/Screenshot(94).png)
 
 ---
 ### [Perl Guessing Game | CSCI 301](Project3.md)
